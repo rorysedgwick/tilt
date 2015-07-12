@@ -1,4 +1,4 @@
-## **T**hings **I** **L**earnt **T**oday
+## *T*hings *I* *L*earnt *T*oday
 
 ### Why  
 
