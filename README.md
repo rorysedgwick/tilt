@@ -1,4 +1,6 @@
-## *T*hings *I* *L*earnt *T*oday
+## *T*hings *I* *L*earnt *T*oday  
+
+![tilt](https://github.com/rorysedgwick/tilt/blob/master/assets/img/seesaw.jpeg)
 
 ### Why  
 
