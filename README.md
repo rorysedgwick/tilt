@@ -11,9 +11,9 @@ For this reason I decided to collate these assorted facts and findings into a si
 
 ### What  
 
-I intend to contribute to this repository every single day with a minimum of three things learned. The subject matter is completely open, only that it is somewhat related to web development and are things that I think would be useful to remember or are sufficiently interesting that I feelp deserve a place. If it is the end of the day and I do not have three things to contribute, it means I have not done enough research or reading that day and should do some before I got to bed.  
+I intend to contribute to this repository every single day with a minimum of three things learned. The subject matter is completely open, only that it is somewhat related to web development and are things that I think would be useful to remember or are sufficiently interesting that I feel deserve a place. If it is the end of the day and I do not have three things to contribute, it means I have not done enough research or reading that day and should do some before I got to bed.  
 
-Each point will include a reference the location of the original information and possibly some further more in-depth resources, so I will be able to return to any of the facts and easily review the original source, as well as delve into the subject more deeply. These points may be completely new ideas or facts, things I have vaguely understood for a while that have suddenly crystallized in understanding in my head, or information that I have come across in the past and subsequently forgotten.  
+Each point should include a reference the location of the original information and possibly some further more in-depth resources, so I will be able to return to any of the information and easily review the original source, as well as delve into the subject more deeply. These points may be completely new ideas or facts, things I have vaguely understood for a while that have suddenly crystallized in understanding in my head, or information that I have come across in the past and subsequently forgotten.  
 
 
 ### How  
